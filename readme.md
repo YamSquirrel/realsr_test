@@ -1,7 +1,6 @@
 # RealSR 
 //origin project:
 https://github.com/jixiaozhong/RealSR
-![image](https://user-images.githubusercontent.com/13163842/154921060-623f4520-1469-4ab2-947a-b425a7ae6150.png)
 
 ![logo](figures/logo.jpg)
 
