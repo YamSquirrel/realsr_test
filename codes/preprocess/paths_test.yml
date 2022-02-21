@@ -1,0 +1,13 @@
+df2k:
+  tdsr:
+    source: './resource/df2k/source'
+    target: './resource/df2k/target'
+    valid:
+dped:
+  clean:
+    hr:
+      train: './resource/dped/train'
+      valid: './resource/dped/valid'
+datasets:
+  df2k: './datasets/DF2K'
+  dped: './datasets/DPED'
